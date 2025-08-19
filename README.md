@@ -133,8 +133,7 @@ To list known elements, enter -1
 
 ---
 
-## ⚖️ License / Use
-This codebase was created for **educational purposes** as part of **CMSC 202**.  
+## ⚖️ License / Use 
 You’re welcome to use and modify it for learning and portfolio demonstrations.
 
 ---
